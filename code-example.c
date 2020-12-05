@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main (void)
 {
-    printf("hello world/n");
-    printf("change");
+    printf("hello wrld/n");
+    printf("change2");
+//  change3    
 }
